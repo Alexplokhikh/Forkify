@@ -1,7 +1,8 @@
-# Forkify (https://github.com/user-attachments/assets/88dbe641-b190-4df2-a619-1f3101c0a0c8)
+# Forkify
 🍕 a recipe web-app | javascript showcase
 --
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,npm,babel)](https://skillicons.dev) 
+[2025-03-06 20_03_56-](https://github.com/user-attachments/assets/96b092e3-ff48-4d08-b0d9-14225059079e)
 
 
 ## See live DEMO: https://plokhikh-forkify.netlify.app/
@@ -10,7 +11,6 @@
 Forkify is a recipe web app that allows users to search, view, modify, bookmark and add recipes.
 Uses the [Forkify API](https://forkify-api.herokuapp.com/v2)
 
-(https://github.com/user-attachments/assets/15eddf52-f093-442d-b45a-7442ec5be004)
 
 
 ## Technologies:
