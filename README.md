@@ -27,7 +27,7 @@ Uses the [Forkify API](https://forkify-api.herokuapp.com/v2)
 - config.js for global configuration
 - Publisher - Subscriber design pattern
 - LocalStorage and Virtual-DOM
-- 
+  
 ## Architecture:
 
 ![forkify-architecture-recipe-loading](https://github.com/user-attachments/assets/879b6bdf-b74f-4773-8c98-8d649e1eae29)
