@@ -43,7 +43,7 @@ Uses the [Forkify API](https://forkify-api.herokuapp.com/v2)
 
 ![forkify-flowchart-part-3](https://github.com/user-attachments/assets/0d3fad1a-4757-4989-9f1b-2f059aacb096)
 
---
+---
 ### Acknowledgments
 original design and idea, belong to:
 - [Jonas schmedtmann](https://jonas.io)
