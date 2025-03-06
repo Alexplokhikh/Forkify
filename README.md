@@ -29,7 +29,8 @@ Uses the [Forkify API](https://forkify-api.herokuapp.com/v2)
 | access bookmarks and recipes after leaving the app and coming back         | <ul><li>Store bookmark data in the browser using **local storage**</ul>                                                                                                               |
 
 ## Architecture:
-![forkify-flowchart-part-3](https://github.com/user-attachments/assets/0d3fad1a-4757-4989-9f1b-2f059aacb096)
+
+![forkify-architecture-recipe-loading](https://github.com/user-attachments/assets/879b6bdf-b74f-4773-8c98-8d649e1eae29)
 
 | Task                                                                       | Implementation                                                                                                                                                                        |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,6 +41,9 @@ Uses the [Forkify API](https://forkify-api.herokuapp.com/v2)
 | Create recipes                                                             | <ul><li>Display Form</li><li>Fetch form data on submit using 'POST' method.<li>async - upload a recipe.</ul>            |
 | access bookmarks and recipes after leaving the app and coming back         | <ul><li>**local storage** for bookmarks and recipes added by user</ul>                                                                                                               |
 
+![forkify-flowchart-part-3](https://github.com/user-attachments/assets/0d3fad1a-4757-4989-9f1b-2f059aacb096)
+
+--
 ### Acknowledgments
 original design and idea, belong to:
 - [Jonas schmedtmann](https://jonas.io)
