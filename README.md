@@ -1,13 +1,17 @@
 # Forkify
 🍕 a recipe web-app | javascript showcase
 --
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,npm,babel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,npm,babel)](https://skillicons.dev) ![2025-03-06 20_02_30-forkify __ Search over 1,000,000 recipes](https://github.com/user-attachments/assets/88dbe641-b190-4df2-a619-1f3101c0a0c8)
+
 
 ## See live DEMO: https://plokhikh-forkify.netlify.app/
 
 ## Overview:
 Forkify is a recipe web app that allows users to search, view, modify, bookmark and add recipes.
 Uses the [Forkify API](https://forkify-api.herokuapp.com/v2)
+
+![2025-03-06 20_03_56-](https://github.com/user-attachments/assets/15eddf52-f093-442d-b45a-7442ec5be004)
+
 
 ## Technologies:
 - HTML, SASS, JavaScript (ES6+)
@@ -25,7 +29,7 @@ Uses the [Forkify API](https://forkify-api.herokuapp.com/v2)
 | Update the number of servings                                              | <ul><li>Change serving functionality: update all ingredients according to current number of servings</ul>                                                                             |
 | Bookmark recipes                                                           | <ul><li>Bookmarking functionality: display list of all bookmarked recipes</ul>                                                                                                        |
 | Create recipes                                                             | <ul><li>Users can upload their own recipes</li><li>User recipes will automatically be bookmarked<li>User can only see their own recipes, not recipes from other users</ul>            |
-| Access to bookmarks and recipes when leaving the app and coming back later | <ul><li>Store bookmark data in the browser using **local storage**</ul>                                                                                                                 |
+| access bookmarks and recipes after leaving the app and coming back         | <ul><li>Store bookmark data in the browser using **local storage**</ul>                                                                                                               |
 
 ### Acknowledgments
 
