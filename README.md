@@ -2,7 +2,7 @@
 🍕 a recipe web-app | javascript showcase
 --
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,npm,babel)](https://skillicons.dev) 
-[2025-03-06 20_03_56-](https://github.com/user-attachments/assets/96b092e3-ff48-4d08-b0d9-14225059079e)
+[![2025-03-06 20_03_56-]](https://github.com/user-attachments/assets/96b092e3-ff48-4d08-b0d9-14225059079e)
 
 
 ## See live DEMO: https://plokhikh-forkify.netlify.app/
